@@ -1,2 +1,2 @@
 # node-introduction
-Lab introduction to node.js
+### Follow the instructions on .js file's comments and submit the solution to the challenges.
